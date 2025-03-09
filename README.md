@@ -1,6 +1,6 @@
 # aim
 
-Pet project from 2017 for learning QML, that grown up into pretty advanced time\task manager.
+Pet project from 2025 for learning QML, that grown up into pretty advanced time\task manager.
 Base is stored using sqlite.
 
 ## Features
@@ -22,8 +22,6 @@ Also there was a simple chat using web sockets, but it require additional server
 ## Description
 
 Main view:
-
-![aim screenshot](info/main.png)
 
 Contains list of aims, with additional information on each aim.
 Fields of aims to display could be configured.
@@ -56,25 +54,6 @@ Let you to start time tracking of an aim.
 Aims could be found through different categories:
 
 ![aim screenshot](info/run_aims_categ.png)
-
-Schedule:
-
-![aim screenshot](info/schedule.png)
-
-Let you search planed aims through the calendar.
-
-Done acts:
-
-![aim screenshot](info/done_acts.png)
-
-Let you watch time tracking of aims through the calendar.
-Each aim link could be pressed to open single aim view.
-
-Done chart:
-
-![aim screenshot](info/done_chart.png)
-
-Shows activity of day in graphic, can be navigated through calendar.
 
 Single aim view:
 
